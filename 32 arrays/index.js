@@ -11,6 +11,8 @@ fruits.unshift("mango");// add element to the beginning
 fruits.shift(); // removes element from the beginning
 
 let length = fruits.length;
-let index = fruits.indexOf("asdf")
+let index = fruits.indexOf("asdf");
+let index = fruits.indexOf("coconut");
 
 console.log(index);
+
